@@ -82,6 +82,18 @@
     font-size: 20px;
     text-align: center;
 }
+
+.outer{
+	display: table;
+	height: 100%;
+	width: 100%;
+}
+
+.love {
+	display: table-cell;
+	vertical-align: middle;
+}
+
 .box_flash1 {
     height: 150px;
     width:  230px;
